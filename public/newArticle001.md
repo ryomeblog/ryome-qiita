@@ -5,7 +5,7 @@ tags:
   - CLI
   - QiitaCLI
 private: false
-updated_at: '2023-07-22T23:33:50+09:00'
+updated_at: '2023-07-22T23:38:03+09:00'
 id: 8f73d4d93c366a6d4b3e
 organization_url_name: null
 slide: false
