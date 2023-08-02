@@ -1,14 +1,14 @@
 ---
 title: Llama2をDockerで実行する
 tags:
-  - 'LLaMA'
-  - 'AI'
-  - 'ChatGPT'
-  - 'Python'
-  - 'LLM'
+  - Python
+  - AI
+  - ChatGPT
+  - LLM
+  - LLaMA
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-08-03T00:30:05+09:00'
+id: 4122ab3744e3c3785c7f
 organization_url_name: null
 slide: false
 ---
