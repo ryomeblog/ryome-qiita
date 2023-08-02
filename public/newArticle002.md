@@ -7,7 +7,7 @@ tags:
   - LLM
   - LLaMA
 private: false
-updated_at: '2023-08-03T00:30:05+09:00'
+updated_at: '2023-08-03T00:36:08+09:00'
 id: 4122ab3744e3c3785c7f
 organization_url_name: null
 slide: false
