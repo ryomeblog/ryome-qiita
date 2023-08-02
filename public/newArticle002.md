@@ -45,6 +45,12 @@ https://qiita.com/ryome/items/3d4de62b560aac31bede
 | Docker             | 20.10.17   |
 | Ubuntu（WSL2）     | 20.04 LTS  |
 
+- フォルダ構成
+```
+.
+├── Dockerfile
+└── sample.py
+```
 # 3. Dockerfile
 
 このDockerfileは、Llama2を実行するための環境を構築します。
@@ -206,6 +212,10 @@ Note: This is just a basic example, and there are many more elements and attribu
 Llama2に出力されたHTMLは以下のようになっています。
 
 ![01.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/449867/8cce6cd1-3af4-73bb-0d53-e1c503dee4c4.png)
+
+# GitHub
+
+https://github.com/ryomeblog/llama2-sample
 
 # 参考文献
 
