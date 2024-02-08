@@ -25,6 +25,12 @@ https://qiita.com/ryome/items/6e59dcbe4735d45d58a3
 
 https://qiita.com/ryome/items/c9fded9da60bce0f0b94
 
+## GitHub
+
+今回の記事で紹介したソースコードをGitHubで公開しています。
+
+https://github.com/ryomeblog/docker-summary
+
 ## 実行方法
 
 以下コマンドで各項目が実行できます。
@@ -1687,9 +1693,3 @@ services:
     - `image: mysql:8.0` は、MySQLのバージョン8.0の公式Dockerイメージを使用することを指定します。
     - `volumes: - ./db_data:/var/lib/mysql` は、ホストマシンの`./db_data`ディレクトリをコンテナの`/var/lib/mysql`ディレクトリにマウントします。これにより、MySQLデータベースのデータが永続化されます。
     - `environment` セクションはMySQLデータベースのルートユーザーパスワード、データベース名、ユーザー名、ユーザーパスワードを設定します。
-
-## GitHub
-
-今回の記事で紹介したソースコードをGitHubで公開しています。
-
-https://github.com/ryomeblog/docker-summary
