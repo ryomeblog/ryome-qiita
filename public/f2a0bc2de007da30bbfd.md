@@ -9,6 +9,7 @@ updated_at: '2023-04-05T23:44:48+09:00'
 id: f2a0bc2de007da30bbfd
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 # nvmのインストール方法
 1.Node Version Manager（nvm）をダウンロードする。

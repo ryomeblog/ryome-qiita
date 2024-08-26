@@ -9,6 +9,7 @@ updated_at: '2023-07-22T23:38:03+09:00'
 id: 8f73d4d93c366a6d4b3e
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 # はじめに
 本記事は以下のリポジトリ内容を実際にやってみてQiita CLIを導入するまでのメモとなります。

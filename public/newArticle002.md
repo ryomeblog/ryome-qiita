@@ -11,6 +11,7 @@ updated_at: '2023-08-03T00:36:08+09:00'
 id: 4122ab3744e3c3785c7f
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 # はじめに
 Llama2が発表されたことで話題となりましたが、なかなか簡単に解説してくれる記事がなかったため、本記事を作成しました。
